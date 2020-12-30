@@ -9,6 +9,3 @@ reports
 scripts
 test-results
 tmp
-
-# Ignore Gradle build except build/libs
-!libs
